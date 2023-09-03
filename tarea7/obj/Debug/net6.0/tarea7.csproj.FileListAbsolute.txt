@@ -1,0 +1,15 @@
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\bin\Debug\net6.0\tarea7.exe
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\bin\Debug\net6.0\tarea7.deps.json
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\bin\Debug\net6.0\tarea7.runtimeconfig.json
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\bin\Debug\net6.0\tarea7.dll
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\bin\Debug\net6.0\tarea7.pdb
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.csproj.AssemblyReference.cache
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.AssemblyInfoInputs.cache
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.AssemblyInfo.cs
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.csproj.CoreCompileInputs.cache
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.dll
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\refint\tarea7.dll
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.pdb
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\tarea7.genruntimeconfig.cache
+C:\Users\Control Tributario\Desktop\Milton U\Tercer Semestre 2023\Ingenieria de Software 2\tarea7\tarea7\tarea7\obj\Debug\net6.0\ref\tarea7.dll
